@@ -8,3 +8,5 @@ Our project studys about paper _Stripping the Discount Curve—a Robust Machine 
 In this paper, authors used RKHS to estimate discount curve and yield curve. Meanwhile, they also used Gaussian Process to perform inferences. 
 
 We used [sample code provided by authors](https://github.com/yye9701/KR_example) to speed up our project, but we have add unique multiple contents by ourselves.
+
+The Jupyter Notebook KR_example and simulation contain our codes used in this study. 
