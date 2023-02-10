@@ -9,4 +9,4 @@ In this paper, authors used RKHS to estimate discount curve and yield curve. Mea
 
 We used [sample code provided by authors](https://github.com/yye9701/KR_example) to speed up our project, but we have add unique multiple contents by ourselves.
 
-The Jupyter Notebook $KR_example.ipynb$ and $simulation.ipynb$ contain our codes used in this study. 
+The Jupyter Notebook `KR_example.ipynb` and `simulation.ipynb` contain our codes used in this study. 
